@@ -1,1 +1,1 @@
-
+this was the first website i made so i did face some issues, the main one being allignment, i tried my best to replicate the original website as much as possible but due to time restraints and lack of experience this is not the exact replica
